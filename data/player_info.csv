@@ -1,0 +1,676 @@
+player_id,first_name,last_name,position,team_id,status,total_points,current_value,selected_by_percent,news,photo,image_status
+1,Folarin,Balogun,4,1,a,0,45,0.7,,232223.jpg,Downloaded
+2,Cédric,Alves Soares,2,1,a,0,40,0.4,,58822.jpg,Downloaded
+3,Mohamed,Elneny,3,1,i,0,44,0.1,Knee injury - Unknown return date,153256.jpg,Downloaded
+4,Fábio,Ferreira Vieira,3,1,a,0,54,0.1,,438098.jpg,Downloaded
+5,Gabriel,dos Santos Magalhães,2,1,a,2,49,24.6,,226597.jpg,Downloaded
+6,Kai,Havertz,3,1,a,4,74,3.6,,219847.jpg,Downloaded
+7,Rob,Holding,2,1,a,0,45,0.2,,156074.jpg,Downloaded
+8,Gabriel,Fernando de Jesus,4,1,i,0,79,1.2,Knee injury - Unknown return date,205651.jpg,Downloaded
+9,Jorge Luiz,Frello Filho,3,1,a,1,55,0.2,,85955.jpg,Downloaded
+10,Jakub,Kiwior,2,1,a,1,45,0.1,,440854.jpg,Downloaded
+11,Marcus,Oliveira Alencar,3,1,u,0,45,0.1,Season long loan to FC Nantes,479683.jpg,Downloaded
+12,Gabriel,Martinelli Silva,3,1,a,8,80,15.2,,444145.jpg,Downloaded
+13,Eddie,Nketiah,4,1,a,13,56,6.4,,205533.jpg,Downloaded
+14,Martin,Ødegaard,3,1,a,13,85,23.0,,184029.jpg,Downloaded
+15,Thomas,Partey,3,1,a,5,50,0.4,,167199.jpg,Downloaded
+16,Nicolas,Pépé,3,1,a,0,49,0.1,,195735.jpg,Downloaded
+17,Aaron,Ramsdale,1,1,a,8,50,17.7,,225321.jpg,Downloaded
+18,Rúnar Alex,Rúnarsson,1,1,u,0,40,0.2,Season long loan to Crystal Palace,115918.jpg,Downloaded
+19,Bukayo,Saka,3,1,a,13,86,66.4,,223340.jpg,Downloaded
+20,William,Saliba,2,1,a,13,51,25.6,,462424.jpg,Downloaded
+21,Albert,Sambi Lokonga,3,1,a,0,50,0.0,,437742.jpg,Downloaded
+22,Emile,Smith Rowe,3,1,a,0,54,0.2,,209289.jpg,Downloaded
+23,Nuno,Varela Tavares,2,1,a,0,40,0.3,,437626.jpg,Downloaded
+24,Kieran,Tierney,2,1,a,0,45,0.3,,192895.jpg,Downloaded
+25,Takehiro,Tomiyasu,2,1,s,4,45,0.3,Suspended until 03 Sep,223723.jpg,Downloaded
+26,Leandro,Trossard,3,1,a,1,68,3.7,,116216.jpg,Downloaded
+27,Auston,Trusty,2,17,a,0,40,1.1,,201410.jpg,Downloaded
+28,Matt,Turner,1,16,a,4,40,14.6,,224068.jpg,Downloaded
+29,Benjamin,White,2,1,a,8,55,9.4,,198869.jpg,Downloaded
+30,Granit,Xhaka,3,1,u,0,60,0.0,Transferred to Bayer Leverkusen,84450.jpg,Downloaded
+31,Oleksandr,Zinchenko,2,1,a,1,49,5.5,,206325.jpg,Downloaded
+32,Alexandre,Moreno Lopera,2,2,i,0,50,0.0,Hamstring injury - Expected back 03 Sep,106468.jpg,Downloaded
+33,Cameron,Archer,4,2,a,0,45,5.3,,433979.jpg,Downloaded
+34,Leon,Bailey,3,2,a,15,55,1.5,,215711.jpg,Downloaded
+35,Emiliano,Buendía Stati,3,2,i,0,59,0.1,Knee injury - Expected back 10 Feb,195546.jpg,Downloaded
+36,Matty,Cash,2,2,a,5,45,7.8,,199796.jpg,Downloaded
+37,Calum,Chambers,2,2,a,0,40,1.3,,101184.jpg,Downloaded
+38,Philippe,Coutinho Correia,3,2,d,2,60,0.5,Hamstring injury - 25% chance of playing,84583.jpg,Downloaded
+39,Keinan,Davis,4,2,a,0,50,0.3,,221239.jpg,Downloaded
+40,Leander,Dendoncker,3,2,i,0,49,0.0,Muscle injury - Unknown return date,151589.jpg,Downloaded
+41,Diego Carlos,Santos Silva,2,2,a,1,45,0.5,,165659.jpg,Downloaded
+42,Lucas,Digne,2,2,a,9,45,1.9,,101188.jpg,Downloaded
+43,Douglas Luiz,Soares de Paulo,3,2,a,8,55,2.5,,230046.jpg,Downloaded
+44,Jhon,Durán,4,2,a,7,50,0.1,,476344.jpg,Downloaded
+45,Kortney,Hause,2,2,a,0,40,0.2,,123354.jpg,Downloaded
+46,Tim,Iroegbunam,3,2,i,0,45,0.0,Muscle injury - Unknown return date,490094.jpg,Downloaded
+47,Boubacar,Kamara,3,2,a,5,50,0.1,,226944.jpg,Downloaded
+48,Ezri,Konsa Ngoyo,2,2,a,6,45,1.1,,199798.jpg,Downloaded
+49,Emiliano,Martínez Romero,1,2,a,9,50,8.1,,98980.jpg,Downloaded
+50,John,McGinn,3,2,a,12,55,0.6,,122806.jpg,Downloaded
+51,Tyrone,Mings,2,2,i,0,44,5.7,Knee injury - Unknown return date,149484.jpg,Downloaded
+52,Marvelous,Nakamba,3,12,a,2,45,1.2,,184704.jpg,Downloaded
+53,Robin,Olsen,1,2,a,0,40,0.9,,111782.jpg,Downloaded
+54,Jaden,Philogene-Bidace,3,2,a,1,45,0.2,,481624.jpg,Downloaded
+55,Jacob,Ramsey,3,2,i,0,59,0.1,Foot injury - Expected back 16 Sep,232653.jpg,Downloaded
+56,Morgan,Sanson,3,2,u,0,45,0.0,Joined OGC Nice on a season-long loan,122775.jpg,Downloaded
+57,Viljami,Sinisalo,1,2,u,0,40,0.0,Joined Exeter City on a season-long loan,248164.jpg,Downloaded
+58,Youri,Tielemans,3,2,a,2,59,1.0,,166989.jpg,Downloaded
+59,Bertrand,Traoré,3,2,a,0,50,0.0,,110504.jpg,Downloaded
+60,Ollie,Watkins,4,2,a,10,80,24.6,,178301.jpg,Downloaded
+61,Wesley,Moraes Ferreira da Silva,4,2,u,0,50,0.0,Permanent transfer to Stoke,213345.jpg,Downloaded
+62,Jaidon,Anthony,3,3,a,2,50,0.1,,444180.jpg,Downloaded
+63,Philip,Billing,3,3,a,4,54,0.6,,168991.jpg,Downloaded
+64,David,Brooks,3,3,a,3,50,0.1,,111317.jpg,Downloaded
+65,Ryan,Christie,3,3,a,4,50,0.0,,158499.jpg,Downloaded
+66,Lewis,Cook,3,3,d,0,50,0.0,Hip injury - 50% chance of playing,155408.jpg,Downloaded
+67,Siriki,Dembélé,3,3,u,0,45,0.0,Permanent Transfer to Birmingham,244085.jpg,Downloaded
+68,Ryan,Fredericks,2,3,i,0,45,0.0,Calf injury - Unknown return date,81012.jpg,Downloaded
+69,James,Hill,2,3,a,1,40,0.3,,463981.jpg,Downloaded
+70,Lloyd,Kelly,2,3,a,1,45,0.0,,235530.jpg,Downloaded
+71,Gavin,Kilkenny,3,3,a,0,45,0.1,,444183.jpg,Downloaded
+72,Justin,Kluivert,3,3,a,2,49,0.4,,222683.jpg,Downloaded
+73,Jamal,Lowe,3,3,a,0,49,0.0,,128309.jpg,Downloaded
+74,Emiliano,Marcondes,3,3,i,0,45,0.0,Foot injury - Unknown return date,133845.jpg,Downloaded
+75,Chris,Mepham,2,3,a,0,44,0.1,,223911.jpg,Downloaded
+76,Kieffer,Moore,4,3,a,2,50,0.4,,128340.jpg,Downloaded
+77,Norberto,Murara Neto,1,3,a,12,45,1.0,,69752.jpg,Downloaded
+78,Dango,Ouattara,3,3,i,0,49,0.0,Ankle injury - Expected back 17 Sep,533463.jpg,Downloaded
+79,Ben,Pearson,3,3,u,0,45,0.0,Permanent transfer to Stoke City,156687.jpg,Downloaded
+80,Darren,Randolph,1,3,a,0,40,0.6,,32259.jpg,Downloaded
+81,Joe,Rothwell,3,3,a,4,50,0.0,,156685.jpg,Downloaded
+82,Antoine,Semenyo,4,3,a,10,45,2.3,,437730.jpg,Downloaded
+83,Marcos,Senesi,2,3,a,2,44,0.1,,221466.jpg,Downloaded
+84,Adam,Smith,2,3,i,0,45,0.0,Muscle injury - Unknown return date,54469.jpg,Downloaded
+85,Dominic,Solanke,4,3,a,12,65,2.9,,154566.jpg,Downloaded
+86,Marcus,Tavernier,3,3,i,0,54,0.0,Knock - Unknown return date,201658.jpg,Downloaded
+87,Hamed,Traorè,3,3,a,1,49,0.0,,424044.jpg,Downloaded
+88,Mark,Travers,1,3,u,0,40,0.2,On loan to Stoke City for the season,229600.jpg,Downloaded
+89,Illia,Zabarnyi,2,3,a,3,45,0.1,,477580.jpg,Downloaded
+90,Kristoffer,Ajer,2,4,a,5,45,0.3,,191866.jpg,Downloaded
+91,Ellery,Balcombe,1,4,a,0,40,0.3,,235448.jpg,Downloaded
+92,Shandon,Baptiste,3,4,a,1,45,2.7,,432160.jpg,Downloaded
+93,Mads,Bech Sørensen,2,4,a,0,40,0.2,,228044.jpg,Downloaded
+94,Mads,Bidstrup,3,4,u,0,45,0.0,Transfer to Red Bull Salzburg on a permanent basis,481405.jpg,Downloaded
+95,Sergi,Canós Tenés,3,4,u,0,50,0.0,Permanent transfer to Valencia,174932.jpg,Downloaded
+96,Nathan,Collins,2,4,a,7,45,0.3,,432830.jpg,Downloaded
+97,Matthew,Cox,1,4,u,0,40,0.0,On loan to Bristol Rovers for the season,503300.jpg,Downloaded
+98,Mikkel,Damsgaard,3,4,a,2,50,0.1,,440089.jpg,Downloaded
+99,Josh,Dasilva,3,4,d,1,50,0.1,Hamstring injury - 75% chance of playing,183656.jpg,Downloaded
+100,Halil,Dervişoğlu,4,4,u,0,45,0.0,Transfer to Galatasaray on a permanent basis,434662.jpg,Downloaded
+101,Mark,Flekken,1,4,a,8,45,2.2,,118342.jpg,Downloaded
+102,Charlie,Goode,2,4,a,0,40,0.2,,213687.jpg,Downloaded
+103,Rico,Henry,2,4,a,9,46,5.6,,194010.jpg,Downloaded
+104,Aaron,Hickey,2,4,a,5,45,0.3,,472713.jpg,Downloaded
+105,Vitaly,Janelt,3,4,a,5,55,0.1,,204580.jpg,Downloaded
+106,Mathias,Jensen,3,4,a,7,55,0.7,,207283.jpg,Downloaded
+107,Keane,Lewis-Potter,3,4,a,1,49,0.0,,249231.jpg,Downloaded
+108,Bryan,Mbeumo,3,4,a,23,67,19.6,,446008.jpg,Downloaded
+109,Ben,Mee,2,4,d,0,49,4.2,Calf injury - 75% chance of playing,51927.jpg,Downloaded
+110,Christian,Nørgaard,3,4,a,5,55,0.1,,128295.jpg,Downloaded
+111,Frank,Onyeka,3,4,a,0,49,0.0,,428580.jpg,Downloaded
+112,Ethan,Pinnock,2,4,a,8,45,2.1,,231065.jpg,Downloaded
+113,David,Raya Martin,1,1,a,0,49,3.5,,154561.jpg,Downloaded
+114,Mads,Roerslev Rasmussen,2,4,a,2,45,0.1,,226956.jpg,Downloaded
+115,Kevin,Schade,3,4,a,4,55,0.1,,513418.jpg,Downloaded
+116,Thomas,Strakosha,1,4,a,0,40,0.4,,140200.jpg,Downloaded
+117,Ivan,Toney,4,4,s,0,80,0.1,Suspended until 17 Jan,144485.jpg,Downloaded
+118,Ryan,Trevitt,3,4,u,0,45,0.0,Season long loan to Exeter,591357.jpg,Downloaded
+119,Yoane,Wissa,4,4,a,20,61,13.1,,216646.jpg,Downloaded
+121,Mathias,Jorgensen,2,4,a,1,45,0.1,,48760.jpg,Downloaded
+122,Simon,Adingra,3,5,a,6,50,0.4,,535818.jpg,Downloaded
+123,Steven,Alzate,3,5,a,0,45,0.1,,235382.jpg,Downloaded
+124,Yasin,Ayari,3,5,u,0,45,0.1,Season-long loan to Coventry City,509416.jpg,Downloaded
+125,Facundo,Buonanotte,3,5,a,0,49,0.0,,536916.jpg,Downloaded
+126,Moisés,Caicedo Corozo,3,7,a,1,50,3.0,,486672.jpg,Downloaded
+127,Aaron,Connolly,4,5,u,0,45,0.0,Permanent move to Hull City,233425.jpg,Downloaded
+128,Mahmoud,Dahoud,3,5,a,4,50,0.2,,168090.jpg,Downloaded
+129,Lewis,Dunk,2,5,a,4,50,4.3,,83299.jpg,Downloaded
+130,Julio,Enciso,3,5,a,8,54,3.6,,474120.jpg,Downloaded
+131,Pervis,Estupiñán,2,5,a,18,52,61.8,,204214.jpg,Downloaded
+132,Evan,Ferguson,4,5,a,6,60,5.8,,487117.jpg,Downloaded
+133,Billy,Gilmour,3,5,a,3,50,0.1,,243568.jpg,Downloaded
+134,Pascal,Groß,3,5,a,3,64,3.0,,60307.jpg,Downloaded
+135,João Pedro,Junqueira de Jesus,4,5,a,7,56,23.8,,475168.jpg,Downloaded
+136,Michał,Karbownik,2,5,u,0,40,0.0,Permanent transfer to Hertha BSC,442229.jpg,Downloaded
+137,Kacper,Kozłowski,3,5,u,0,45,0.0,Joined vitesse on a season long loan,484658.jpg,Downloaded
+138,Adam,Lallana,3,5,a,1,49,0.1,,39155.jpg,Downloaded
+139,Tariq,Lamptey,2,5,a,0,40,6.2,,232792.jpg,Downloaded
+140,Solly,March,3,5,a,24,66,9.0,,109345.jpg,Downloaded
+141,Tom,McGill,1,5,a,0,40,0.2,,209288.jpg,Downloaded
+142,James,Milner,3,5,a,3,50,0.2,,15157.jpg,Downloaded
+143,Kaoru,Mitoma,3,5,a,17,66,43.2,,451340.jpg,Downloaded
+144,Jakub,Moder,3,5,a,0,45,0.1,,243505.jpg,Downloaded
+145,Robert,Sánchez,1,7,a,4,45,4.4,,215059.jpg,Downloaded
+146,Jeremy,Sarmiento Morante,3,5,u,0,45,0.0,Joined West Bromwich Albion on a season-long loan,441192.jpg,Downloaded
+147,Kjell,Scherpen,1,5,u,0,40,0.0,Joined Sturm Graz on a season-long loan,240514.jpg,Downloaded
+148,Jason,Steele,1,5,a,5,45,5.4,,49262.jpg,Downloaded
+149,Deniz,Undav,4,5,u,0,55,0.0,Season long loan to Stuttgart,450434.jpg,Downloaded
+150,Jan Paul,van Hecke,2,5,a,2,40,2.1,,469142.jpg,Downloaded
+151,Joël,Veltman,2,5,a,2,44,0.9,,111478.jpg,Downloaded
+152,Bart,Verbruggen,1,5,a,0,44,0.4,,489639.jpg,Downloaded
+153,Adam,Webster,2,5,a,1,44,0.3,,110735.jpg,Downloaded
+154,Danny,Welbeck,4,5,a,3,59,1.9,,50175.jpg,Downloaded
+155,Andi,Zeqiri,4,5,a,0,45,1.1,,204676.jpg,Downloaded
+157,Ameen,Al-Dakhil,2,6,a,1,40,0.6,,487968.jpg,Downloaded
+158,Samuel,Bastien,3,6,a,0,50,0.0,,189776.jpg,Downloaded
+159,Manuel Benson,Hedilazio,3,6,a,1,55,0.2,,183751.jpg,Downloaded
+160,Jordan,Beyer,2,6,a,1,40,4.4,,241231.jpg,Downloaded
+161,Josh,Brownhill,3,6,a,1,49,0.2,,172782.jpg,Downloaded
+163,Jack,Cork,3,6,a,0,50,0.0,,40145.jpg,Downloaded
+164,Dara,Costelloe,3,6,u,0,45,0.0,Season long loan to St Johnstone,530873.jpg,Downloaded
+165,Josh,Cullen,3,6,a,2,50,0.1,,172567.jpg,Downloaded
+166,CJ,Egan-Riley,2,6,a,0,40,0.1,,432711.jpg,Downloaded
+167,Hjalmar,Ekdal,2,6,a,0,40,0.2,,478969.jpg,Downloaded
+168,Lyle,Foster,4,6,a,2,50,0.3,,435973.jpg,Downloaded
+169,Denis,Franchi,1,6,a,0,40,0.2,,493347.jpg,Downloaded
+170,Jóhann Berg,Gudmundsson,3,6,a,0,49,0.0,,60586.jpg,Downloaded
+172,Arijanet,Muric,1,6,a,0,45,0.2,,232917.jpg,Downloaded
+173,Dara,O'Shea,2,6,a,1,45,0.2,,216616.jpg,Downloaded
+174,Michael,Obafemi,4,6,i,0,50,0.0,Hamstring injury - Unknown return date,220598.jpg,Downloaded
+175,Bailey,Peacock-Farrell,1,6,u,0,40,0.0,Joined Aarhus on loan,220037.jpg,Downloaded
+176,Connor,Roberts,2,6,a,1,45,0.3,,192290.jpg,Downloaded
+177,Jay,Rodriguez,4,6,a,0,54,0.2,,44683.jpg,Downloaded
+178,Charlie,Taylor,2,6,a,0,40,0.9,,103914.jpg,Downloaded
+179,Bobby,Thomas,2,6,u,0,40,0.0,Permanent transfer to Coventry,461102.jpg,Downloaded
+180,Scott,Twine,3,6,u,0,49,0.0,Season long loan to Hull,226473.jpg,Downloaded
+181,Lawrence,Vigouroux,1,6,a,0,40,0.2,,133085.jpg,Downloaded
+182,Victor,da Silva,2,6,a,1,45,0.2,,441455.jpg,Downloaded
+183,Wout,Weghorst,4,6,u,0,55,0.1,On loan to Hoffenheim,120202.jpg,Downloaded
+184,Anass,Zaroury,3,6,s,-2,49,0.1,Suspended until 18 Sep,511783.jpg,Downloaded
+185,Ethan,Ampadu,2,7,u,0,40,0.0,Permanent transfer to Leeds Utd,199598.jpg,Downloaded
+186,Andrey,Nascimento dos Santos,3,7,a,0,45,0.1,,532605.jpg,Downloaded
+187,Kepa,Arrizabalaga,1,7,u,0,50,0.5,One year loan deal to Real Madrid,109745.jpg,Downloaded
+188,Pierre-Emerick,Aubameyang,4,7,u,0,65,0.0,,54694.jpg,Downloaded
+189,César,Azpilicueta,2,7,u,0,45,0.0,Left the club as a free agent,41328.jpg,Downloaded
+190,Abdul Rahman,Baba,2,7,u,0,40,0.0,Permanent Transfer to PAOK,118335.jpg,Downloaded
+191,Benoît,Badiashile,2,7,i,0,44,0.0,Hamstring injury - Unknown return date,242880.jpg,Downloaded
+192,Marcus,Bettinelli,1,7,i,0,40,0.0,Unknown - Unknown return date,122074.jpg,Downloaded
+193,Armando,Broja,4,7,i,0,50,0.0,Knee injury - Unknown return date,440323.jpg,Downloaded
+194,Trevoh,Chalobah,2,7,i,0,44,0.1,Knock - Unknown return date,180736.jpg,Downloaded
+195,Ben,Chilwell,2,7,a,8,57,25.7,,172850.jpg,Downloaded
+196,Carney,Chukwuemeka,3,7,i,6,45,2.7,Knee injury - Unknown return date,478912.jpg,Downloaded
+197,Levi,Colwill,2,7,a,3,45,3.9,,460028.jpg,Downloaded
+198,Marc,Cucurella Saseta,2,7,a,0,50,0.5,,179268.jpg,Downloaded
+199,Enzo,Fernández,3,7,a,1,50,4.6,,448047.jpg,Downloaded
+200,David Datro,Fofana,4,7,u,0,50,0.0,Joined Union Berlin on a season-long loan - Expected back 01 Jul,520295.jpg,Downloaded
+201,Wesley,Fofana,2,7,i,0,45,0.0,Knee injury - Unknown return date,444463.jpg,Downloaded
+202,Conor,Gallagher,3,7,a,4,55,0.5,,232787.jpg,Downloaded
+203,Malo,Gusto,2,7,a,2,40,3.1,,482609.jpg,Downloaded
+204,Lewis,Hall,2,15,a,0,45,0.2,,487838.jpg,Downloaded
+205,Callum,Hudson-Odoi,3,7,a,0,49,0.0,,209046.jpg,Downloaded
+206,Reece,James,2,7,i,2,54,8.6,Hamstring injury - Expected back 17 Sep,225796.jpg,Downloaded
+207,Romelu,Lukaku Bolingoli,4,7,a,0,69,0.6,,66749.jpg,Downloaded
+208,Noni,Madueke,3,7,a,1,55,0.1,,248857.jpg,Downloaded
+209,Mason,Mount,3,14,i,5,69,2.7,Knock - Expected back 16 Sep,184341.jpg,Downloaded
+210,Mykhailo,Mudryk,3,7,a,2,64,2.1,,465920.jpg,Downloaded
+211,Nicolas,Jackson,4,7,a,2,70,17.2,,517052.jpg,Downloaded
+212,Christopher,Nkunku,4,7,i,0,74,0.8,Knee injury - Unknown return date,213198.jpg,Downloaded
+213,Christian,Pulisic,3,7,u,0,55,0.0,Permanent transfer to AC Milan,176413.jpg,Downloaded
+214,Malang,Sarr,2,7,a,0,45,0.1,,204727.jpg,Downloaded
+215,Gabriel,Słonina,1,7,u,0,40,0.1,Season long loan to KAS Eupen,471798.jpg,Downloaded
+216,Raheem,Sterling,3,7,a,4,70,2.5,,103955.jpg,Downloaded
+217,Thiago,Emiliano da Silva,2,7,a,3,50,2.9,,51090.jpg,Downloaded
+218,Hakim,Ziyech,3,7,u,0,54,0.2,Season long loan to Galatasaray,124183.jpg,Downloaded
+219,Naouirou,Ahamada,3,8,a,1,45,0.2,,466117.jpg,Downloaded
+220,Joachim,Andersen,2,8,a,11,45,2.9,,174874.jpg,Downloaded
+221,Jordan,Ayew,3,8,a,7,55,0.4,,80146.jpg,Downloaded
+222,Nathaniel,Clyne,2,8,a,0,45,0.1,,57328.jpg,Downloaded
+223,Cheick,Doucouré,3,8,a,4,50,0.1,,438464.jpg,Downloaded
+224,Malcolm,Ebiowei,3,8,i,0,45,0.0,Lack of match fitness - Expected back 03 Sep,450535.jpg,Downloaded
+225,Odsonne,Edouard,4,8,a,9,55,2.1,,199670.jpg,Downloaded
+226,Eberechi,Eze,3,8,a,5,64,13.1,,232413.jpg,Downloaded
+227,Vicente,Guaita,1,8,a,0,45,0.8,,40836.jpg,Downloaded
+228,Marc,Guéhi,2,8,a,8,45,1.9,,209036.jpg,Downloaded
+229,Will,Hughes,3,8,i,0,50,0.0,Knee injury - Unknown return date,108413.jpg,Downloaded
+230,Sam,Johnstone,1,8,a,8,45,2.1,,101982.jpg,Downloaded
+231,Jefferson,Lerma Solís,3,8,a,5,50,0.3,,152551.jpg,Downloaded
+232,Jean-Philippe,Mateta,4,8,a,0,49,0.3,,231747.jpg,Downloaded
+233,Remi,Matthews,1,8,a,0,40,0.1,,169593.jpg,Downloaded
+234,Tyrick,Mitchell,2,8,a,10,45,0.8,,244723.jpg,Downloaded
+236,Michael,Olise,3,8,i,0,59,0.1,Hamstring injury - Unknown return date,443661.jpg,Downloaded
+237,Luke,Plange,4,8,u,0,45,0.0,"Half season loan to Carlisle United, expected back in January",450541.jpg,Downloaded
+238,Chris,Richards,2,8,a,0,40,0.4,,427623.jpg,Downloaded
+239,Jairo,Riedewald,3,8,a,0,45,0.1,,173954.jpg,Downloaded
+240,Jeffrey,Schlupp,3,8,a,5,50,0.2,,86417.jpg,Downloaded
+241,James,Tomkins,2,8,a,1,40,1.0,,49413.jpg,Downloaded
+242,Joel,Ward,2,8,a,8,45,0.3,,55494.jpg,Downloaded
+243,Joe,Whitworth,1,8,a,0,40,1.4,,487818.jpg,Downloaded
+244,André,Tavares Gomes,3,9,a,0,45,0.3,,120250.jpg,Downloaded
+245,Jarrad,Branthwaite,2,9,a,0,40,0.4,,480455.jpg,Downloaded
+246,Dominic,Calvert-Lewin,4,9,d,1,59,0.6,Facial Injury - 50% chance of playing,177815.jpg,Downloaded
+247,Seamus,Coleman,2,9,i,0,44,0.0,Knee injury - Unknown return date,59949.jpg,Downloaded
+248,Dele,Alli,3,9,i,0,49,0.0,Hip injury - Unknown return date,108823.jpg,Downloaded
+249,Abdoulaye,Doucouré,3,9,a,4,55,0.2,,121599.jpg,Downloaded
+250,James,Garner,3,9,a,4,50,0.0,,232928.jpg,Downloaded
+251,Jean-Philippe,Gbamin,3,9,a,0,45,0.0,,160987.jpg,Downloaded
+252,Ben,Godfrey,2,9,a,0,45,0.2,,198826.jpg,Downloaded
+253,Demarai,Gray,3,9,a,0,54,0.3,,172632.jpg,Downloaded
+254,Idrissa,Gueye,3,9,a,2,50,0.0,,80801.jpg,Downloaded
+255,Mason,Holgate,2,9,a,0,40,1.6,,194164.jpg,Downloaded
+256,Alex,Iwobi,3,9,d,3,55,0.7,Hamstring injury - 25% chance of playing,153133.jpg,Downloaded
+257,Michael,Keane,2,9,a,1,45,0.3,,106611.jpg,Downloaded
+258,Neal,Maupay,4,9,a,3,50,1.2,,115382.jpg,Downloaded
+259,Dwight,McNeil,3,9,i,0,54,0.1,Ankle injury - Unknown return date,433154.jpg,Downloaded
+260,Vitalii,Mykolenko,2,9,a,0,44,0.2,,224967.jpg,Downloaded
+261,Amadou,Onana,3,9,a,4,50,0.2,,449871.jpg,Downloaded
+262,Nathan,Patterson,2,9,a,1,45,0.2,,243571.jpg,Downloaded
+263,Jordan,Pickford,1,9,a,2,45,13.5,,111234.jpg,Downloaded
+264,Ellis,Simms,4,9,u,0,45,0.0,Transferred to Coventry City,218997.jpg,Downloaded
+265,James,Tarkowski,2,9,a,2,45,1.9,,17761.jpg,Downloaded
+266,João,Neves Virgínia,1,9,a,0,40,0.5,,222627.jpg,Downloaded
+267,Andreas,Hoelgebaum Pereira,3,10,a,6,55,1.0,,156689.jpg,Downloaded
+268,Tom,Cairney,3,10,a,1,50,0.0,,76357.jpg,Downloaded
+269,Ivan,Neves Abreu Cavaleiro,3,10,u,0,50,0.0,Permanent transfer to Lille,166324.jpg,Downloaded
+270,Bobby,De Cordova-Reid,3,10,a,8,55,0.2,,96994.jpg,Downloaded
+271,Issa,Diop,2,10,a,9,45,1.0,,219924.jpg,Downloaded
+272,Tyrese,Francois,3,10,a,0,45,0.0,,432931.jpg,Downloaded
+273,Anthony,Knockaert,3,10,a,0,45,0.1,,83543.jpg,Downloaded
+274,Terence,Kongolo,2,10,a,0,40,0.1,,109434.jpg,Downloaded
+275,Bernd,Leno,1,10,a,14,45,9.8,,80201.jpg,Downloaded
+276,Saša,Lukić,3,10,a,5,45,0.7,,212314.jpg,Downloaded
+277,Kevin,Mbabu,2,10,a,0,40,0.5,,120721.jpg,Downloaded
+278,Aleksandar,Mitrović,4,10,u,1,74,2.1,Permanent transfer to Al-Hilal,128389.jpg,Downloaded
+279,Rodrigo,Muniz Carvalho,4,10,a,1,45,0.4,,244042.jpg,Downloaded
+280,João,Palhinha Gonçalves,3,10,a,0,50,0.1,,154296.jpg,Downloaded
+281,Tim,Ream,2,10,s,5,45,0.5,Suspended until 02 Sep,82514.jpg,Downloaded
+282,Harrison,Reed,3,10,a,4,50,0.8,,153366.jpg,Downloaded
+283,Antonee,Robinson,2,10,a,7,45,0.7,,169528.jpg,Downloaded
+284,Marek,Rodák,1,10,a,0,40,0.4,,155529.jpg,Downloaded
+285,Kenny,Tete,2,10,a,6,45,0.7,,167074.jpg,Downloaded
+286,Tosin,Adarabioyo,2,10,a,0,45,0.1,,109646.jpg,Downloaded
+287,Carlos Vinícius,Alves Morais,4,10,a,0,49,3.1,,245824.jpg,Downloaded
+288,Harry,Wilson,3,10,a,5,55,0.2,,153682.jpg,Downloaded
+289,Adrián,San Miguel del Castillo,1,11,a,0,40,0.3,,60706.jpg,Downloaded
+290,Trent,Alexander-Arnold,2,11,d,3,80,15.0,Knock - 75% chance of playing,169187.jpg,Downloaded
+291,Alisson,Ramses Becker,1,11,a,5,55,9.4,,116535.jpg,Downloaded
+292,Stefan,Bajcetic,3,11,a,0,49,0.0,,535928.jpg,Downloaded
+293,Darwin,Núñez Ribeiro,4,11,a,2,74,8.9,,447203.jpg,Downloaded
+294,Diogo,Teixeira da Silva,3,11,a,13,80,3.3,,194634.jpg,Downloaded
+295,Harvey,Elliott,3,11,a,2,49,0.2,,444884.jpg,Downloaded
+296,Fabio Henrique,Tavares,3,11,u,0,50,0.0,Permanent Transfer to Al-Ittihad,116643.jpg,Downloaded
+297,Cody,Gakpo,4,11,a,4,75,5.5,,243298.jpg,Downloaded
+298,Joe,Gomez,2,11,a,1,45,0.3,,171287.jpg,Downloaded
+299,Jordan,Henderson,3,11,u,0,50,0.0,Permanent transfer to Al-Ettifaq,56979.jpg,Downloaded
+300,Curtis,Jones,3,11,d,1,49,0.1,Ankle injury - 50% chance of playing,206915.jpg,Downloaded
+301,Caoimhin,Kelleher,1,11,a,0,40,0.3,,200720.jpg,Downloaded
+302,Ibrahima,Konaté,2,11,a,4,50,2.4,,204716.jpg,Downloaded
+303,Luis,Díaz,3,11,a,15,77,12.8,,244731.jpg,Downloaded
+304,Alexis,Mac Allister,3,11,a,-1,60,7.3,,243016.jpg,Downloaded
+305,Joel,Matip,2,11,a,0,50,0.2,,60914.jpg,Downloaded
+306,Nathaniel,Phillips,2,11,a,0,40,0.3,,197464.jpg,Downloaded
+307,Andrew,Robertson,2,11,a,4,65,4.3,,122798.jpg,Downloaded
+308,Mohamed,Salah,3,11,a,10,125,28.9,,118748.jpg,Downloaded
+309,Dominik,Szoboszlai,3,11,a,7,70,4.0,,424876.jpg,Downloaded
+310,Thiago,Alcántara do Nascimento,3,11,a,0,49,0.2,,61558.jpg,Downloaded
+311,Konstantinos,Tsimikas,2,11,a,1,45,0.1,,214285.jpg,Downloaded
+312,Sepp,van den Berg,2,11,u,0,40,0.0,Season long loan to Mainz 05,444765.jpg,Downloaded
+313,Virgil,van Dijk,2,11,a,4,60,10.2,,97032.jpg,Downloaded
+314,Elijah,Adebayo,4,12,a,2,50,0.9,,174310.jpg,Downloaded
+315,Mads Juel,Andersen,2,12,a,0,40,0.7,,208904.jpg,Downloaded
+316,Amari'i,Bell,2,12,a,0,40,7.8,,165183.jpg,Downloaded
+317,Luke,Berry,3,12,a,1,49,0.1,,82738.jpg,Downloaded
+318,Reece,Burke,2,12,i,0,40,0.0,Knock - Expected back 25 Aug,156658.jpg,Downloaded
+319,Allan,Campbell,3,12,a,0,49,0.0,,193195.jpg,Downloaded
+320,Jordan,Clark,3,12,i,0,50,0.0,Ankle injury - Unknown return date,96784.jpg,Downloaded
+321,Alfie,Doughty,2,12,a,0,45,0.1,,244262.jpg,Downloaded
+322,Luke,Freeman,3,12,a,0,49,0.0,,49083.jpg,Downloaded
+323,Matt,Macey,1,12,a,0,40,0.6,,113534.jpg,Downloaded
+324,John,McAtee,4,12,a,0,45,2.4,,422303.jpg,Downloaded
+326,Carlton,Morris,4,12,a,8,55,1.4,,156700.jpg,Downloaded
+327,Admiral,Muskwe,4,12,a,0,45,0.2,,174595.jpg,Downloaded
+328,Chiedozie,Ogbene,4,12,a,1,50,0.1,,229164.jpg,Downloaded
+330,Gabriel,Osho,2,12,i,0,45,0.0,Knee injury - Expected back 25 Aug,199056.jpg,Downloaded
+332,Dion,Pereira,3,12,a,0,45,0.2,,243532.jpg,Downloaded
+333,Dan,Potts,2,12,i,0,40,0.1,Ankle injury - Unknown return date,108411.jpg,Downloaded
+335,James,Shea,1,12,a,0,45,0.2,,77818.jpg,Downloaded
+337,Elliot,Thorpe,3,12,u,0,45,0.0,Joined Shrewsbury Town on a season-long loan - Unknown return date,232477.jpg,Downloaded
+339,Louie,Watson,3,12,a,0,45,0.3,,223333.jpg,Downloaded
+340,Cauley,Woodrow,4,12,a,1,45,0.8,,91046.jpg,Downloaded
+341,Manuel,Akanji,2,13,a,13,51,9.5,,211975.jpg,Downloaded
+342,Nathan,Aké,2,13,a,7,51,6.9,,126184.jpg,Downloaded
+343,Julián,Álvarez,4,13,a,12,66,8.0,,461358.jpg,Downloaded
+344,Bernardo,Veiga de Carvalho e Silva,3,13,d,3,64,2.6,Illness - 75% chance of playing,165809.jpg,Downloaded
+345,Oscar,Bobb,3,13,a,0,45,0.0,,477555.jpg,Downloaded
+346,João,Cancelo,2,13,a,0,59,2.5,,121145.jpg,Downloaded
+347,Scott,Carson,1,13,a,0,40,0.1,,17601.jpg,Downloaded
+349,Kevin,De Bruyne,3,13,i,1,103,3.3,Hamstring injury - Expected back 16 Dec,61366.jpg,Downloaded
+350,Rúben,Gato Alves Dias,2,13,a,7,55,6.8,,171314.jpg,Downloaded
+351,Tommy,Doyle,3,13,a,0,45,0.0,,220394.jpg,Downloaded
+352,Ederson,Santana de Moraes,1,13,a,12,55,18.0,,121160.jpg,Downloaded
+353,Phil,Foden,3,13,a,12,76,11.8,,209244.jpg,Downloaded
+354,Jack,Grealish,3,13,a,3,74,4.4,,114283.jpg,Downloaded
+355,Erling,Haaland,4,13,a,15,140,91.1,,223094.jpg,Downloaded
+356,Mateo,Kovačić,3,13,a,6,50,1.1,,91651.jpg,Downloaded
+357,Aymeric,Laporte,2,13,a,1,49,0.4,,146941.jpg,Downloaded
+358,Rico,Lewis,2,13,a,6,45,0.6,,477064.jpg,Downloaded
+359,Riyad,Mahrez,3,13,u,0,75,0.1,Permanent transfer to Al-Ahli,103025.jpg,Downloaded
+360,James,McAtee,3,13,a,1,45,0.0,,432714.jpg,Downloaded
+361,Stefan,Ortega Moreno,1,13,a,0,40,0.7,,88248.jpg,Downloaded
+362,Cole,Palmer,3,13,a,1,50,0.2,,244851.jpg,Downloaded
+363,Máximo,Perrone,3,13,a,0,45,0.0,,482769.jpg,Downloaded
+364,Kalvin,Phillips,3,13,a,0,49,0.0,,155405.jpg,Downloaded
+365,Rodrigo,Hernandez,3,13,a,16,56,10.1,,220566.jpg,Downloaded
+366,Sergio,Gómez,2,13,a,0,40,0.8,,437468.jpg,Downloaded
+367,Zack,Steffen,1,13,a,0,40,0.1,,164484.jpg,Downloaded
+368,John,Stones,2,13,i,0,53,10.8,Muscle injury - Expected back 16 Sep,97299.jpg,Downloaded
+369,Kyle,Walker,2,13,a,12,51,7.5,,58621.jpg,Downloaded
+370,Alex,Telles,2,14,u,0,45,0.0,Permanent transfer to Al Nassr,152590.jpg,Downloaded
+371,Amad,Diallo,3,14,i,0,45,0.0,Knee injury - Expected back 25 Aug,493250.jpg,Downloaded
+372,Antony Matheus,dos Santos,3,14,a,4,70,1.2,,467169.jpg,Downloaded
+373,Bruno,Borges Fernandes,3,14,a,4,85,23.1,,141746.jpg,Downloaded
+374,Brandon,Williams,2,14,a,0,40,0.2,,232937.jpg,Downloaded
+375,Eric,Bailly,2,14,a,0,40,0.2,,197365.jpg,Downloaded
+376,Carlos Henrique,Casimiro,3,14,a,5,55,4.3,,61256.jpg,Downloaded
+377,Diogo,Dalot Teixeira,2,14,a,1,49,1.4,,216051.jpg,Downloaded
+378,Anthony,Elanga,3,16,a,5,50,0.8,,449434.jpg,Downloaded
+379,Christian,Eriksen,3,14,a,2,59,0.5,,80607.jpg,Downloaded
+381,Frederico,Rodrigues de Paula Santos,3,14,u,0,50,0.1,Permanent transfer to Fenerbahce,101582.jpg,Downloaded
+382,Alejandro,Garnacho,3,14,a,5,50,2.3,,493105.jpg,Downloaded
+383,Hannibal,Mejbri,3,14,a,0,44,0.1,,465527.jpg,Downloaded
+384,Tom,Heaton,1,14,i,0,40,0.1,Calf injury - Unknown return date,21205.jpg,Downloaded
+385,Dean,Henderson,1,14,a,0,45,0.3,,172649.jpg,Downloaded
+386,Victor,Lindelöf,2,14,a,1,45,0.2,,184667.jpg,Downloaded
+387,Harry,Maguire,2,14,a,0,44,0.4,,95658.jpg,Downloaded
+389,Tyrell,Malacia,2,14,i,0,44,0.0,Knock - Unknown return date,222690.jpg,Downloaded
+390,Anthony,Martial,4,14,a,1,65,0.3,,148225.jpg,Downloaded
+391,Lisandro,Martínez,2,14,a,-1,49,5.9,,221820.jpg,Downloaded
+392,Scott,McTominay,3,14,a,1,50,0.1,,195851.jpg,Downloaded
+393,Teden,Mengi,2,14,a,0,40,0.1,,244856.jpg,Downloaded
+394,Facundo,Pellistri Rebollo,3,14,a,2,45,0.1,,488404.jpg,Downloaded
+395,Raphaël,Varane,2,14,a,15,51,6.2,,90152.jpg,Downloaded
+396,Marcus,Rashford,3,14,a,5,90,44.1,,176297.jpg,Downloaded
+397,Jadon,Sancho,3,14,a,2,69,0.8,,209243.jpg,Downloaded
+398,Luke,Shaw,2,14,a,6,55,24.7,,106760.jpg,Downloaded
+399,Shola,Shoretire,4,14,a,0,45,0.2,,472464.jpg,Downloaded
+400,Donny,van de Beek,3,14,a,0,49,0.1,,180184.jpg,Downloaded
+401,Aaron,Wan-Bissaka,2,14,a,13,46,5.3,,214590.jpg,Downloaded
+402,Miguel,Almirón Rejala,3,15,a,4,64,6.4,,179018.jpg,Downloaded
+403,Elliot,Anderson,3,15,a,2,45,4.9,,215379.jpg,Downloaded
+404,Harrison,Ashby,2,15,u,0,40,0.0,Season long loan to Swansea,441024.jpg,Downloaded
+405,Sven,Botman,2,15,a,7,45,19.3,,220237.jpg,Downloaded
+406,Bruno,Guimarães Rodriguez Moura,3,15,a,2,60,2.9,,208706.jpg,Downloaded
+407,Dan,Burn,2,15,a,4,45,3.1,,78916.jpg,Downloaded
+408,Karl,Darlow,1,15,u,0,40,0.0,Permanent move to Leeds Utd,59735.jpg,Downloaded
+409,Martin,Dubravka,1,15,a,0,40,1.1,,67089.jpg,Downloaded
+410,Ryan,Fraser,3,15,a,0,49,0.0,,90105.jpg,Downloaded
+411,Mark,Gillespie,1,15,a,0,40,0.1,,81441.jpg,Downloaded
+412,Anthony,Gordon,3,15,a,4,55,0.5,,232826.jpg,Downloaded
+413,Isaac,Hayden,3,15,a,0,45,0.1,,153127.jpg,Downloaded
+414,Jeff,Hendrick,3,15,a,0,45,0.1,,83314.jpg,Downloaded
+415,Alexander,Isak,4,15,a,15,77,27.8,,219168.jpg,Downloaded
+416,Joelinton Cássio,Apolinário de Lira,3,15,d,2,60,0.9,Knock - 75% chance of playing,180974.jpg,Downloaded
+417,Emil,Krafth,2,15,i,0,45,0.0,Knee injury - Expected back 30 Sep,111773.jpg,Downloaded
+419,Jamaal,Lascelles,2,15,a,0,40,0.4,,101148.jpg,Downloaded
+420,Jamal,Lewis,2,15,u,0,40,0.0,Joined Watford on a season long loan,194799.jpg,Downloaded
+421,Sean,Longstaff,3,15,a,2,49,0.2,,180135.jpg,Downloaded
+422,Javier,Manquillo Gaitán,2,15,i,0,40,0.0,Groin Injury - Unknown return date,109528.jpg,Downloaded
+423,Jacob,Murphy,3,15,a,4,50,0.2,,114243.jpg,Downloaded
+424,Nick,Pope,1,15,a,6,55,10.8,,98747.jpg,Downloaded
+425,Matt,Ritchie,3,15,a,0,45,0.2,,56983.jpg,Downloaded
+426,Allan,Saint-Maximin,3,15,u,0,60,0.0,Permanent move to Al Ahli,170137.jpg,Downloaded
+427,Fabian,Schär,2,15,a,4,50,2.3,,119471.jpg,Downloaded
+428,Matt,Targett,2,15,a,0,44,0.2,,169359.jpg,Downloaded
+429,Sandro,Tonali,3,15,a,7,55,3.5,,432422.jpg,Downloaded
+430,Kieran,Trippier,2,15,a,4,65,32.0,,77794.jpg,Downloaded
+431,Kell,Watts,2,15,u,0,40,0.1,Season long loan to Wigan Athletic,232977.jpg,Downloaded
+432,Joe,Willock,3,15,i,0,54,0.1,Hamstring injury - Expected back 17 Sep,200089.jpg,Downloaded
+433,Callum,Wilson,4,15,a,6,79,7.2,,75115.jpg,Downloaded
+435,Harry,Arter,3,16,a,0,45,0.1,,48615.jpg,Downloaded
+436,Serge,Aurier,2,16,a,11,45,1.6,,80226.jpg,Downloaded
+437,Taiwo,Awoniyi,4,16,a,14,65,1.9,,210156.jpg,Downloaded
+438,Giulian,Biancone,2,16,a,0,40,0.1,,437753.jpg,Downloaded
+439,Willy,Boly,2,16,a,2,45,0.2,,90585.jpg,Downloaded
+441,Steve,Cook,2,16,u,0,45,0.0,Permanent transfer to QPR,56917.jpg,Downloaded
+442,Danilo,dos Santos de Oliveira,3,16,a,4,55,0.1,,513046.jpg,Downloaded
+443,Emmanuel,Dennis,4,16,a,0,49,0.5,,230251.jpg,Downloaded
+445,Felipe Augusto,de Almeida Monteiro,2,16,i,0,44,0.0,Knee injury - Unknown return date,116404.jpg,Downloaded
+446,Remo,Freuler,3,16,a,0,49,0.0,,89076.jpg,Downloaded
+447,Morgan,Gibbs-White,3,16,a,4,60,2.2,,222531.jpg,Downloaded
+448,Wayne,Hennessey,1,16,i,0,40,0.3,Knee injury - Expected back 02 Sep,20066.jpg,Downloaded
+449,Ethan,Horvath,1,16,a,0,45,0.1,,168547.jpg,Downloaded
+450,Brennan,Johnson,3,16,a,4,60,0.6,,242898.jpg,Downloaded
+451,Cheikhou,Kouyaté,3,16,a,2,50,0.0,,55037.jpg,Downloaded
+452,Richie,Laryea,2,16,u,0,45,0.0,Loan to the end of the year with a permanent transfer in view,221403.jpg,Downloaded
+453,Orel,Mangala,3,16,a,3,50,0.0,,179519.jpg,Downloaded
+454,Loïc,Mbe Soh,2,16,a,0,40,0.1,,242885.jpg,Downloaded
+455,Scott,McKenna,2,16,a,3,45,0.1,,168281.jpg,Downloaded
+456,Alex,Mighten,3,16,a,0,45,0.0,,244930.jpg,Downloaded
+457,Moussa,Niakhaté,2,16,a,1,45,0.0,,199170.jpg,Downloaded
+458,Lewis,O'Brien,3,16,a,0,49,0.0,,243345.jpg,Downloaded
+459,Braian,Ojeda Rodríguez,3,16,u,0,45,0.0,Permanent transfer to Real Salt Lake,437476.jpg,Downloaded
+461,Omar,Richards,2,16,i,0,45,0.0,Muscle injury - Unknown return date,204822.jpg,Downloaded
+462,Gustavo Henrique,Furtado Scarpa,3,16,u,0,45,0.1,Season long loan to Olympiacos,185253.jpg,Downloaded
+463,Jonjo,Shelvey,3,16,a,0,49,0.0,,50232.jpg,Downloaded
+464,Sam,Surridge,4,16,u,0,45,0.3,Joined Nashville SC on a permanent transfer,217331.jpg,Downloaded
+465,Harry,Toffolo,2,16,a,0,45,0.1,,114241.jpg,Downloaded
+466,Hwang,Ui-jo,4,16,a,0,45,1.2,,201440.jpg,Downloaded
+467,Neco,Williams,2,16,a,3,45,0.3,,215136.jpg,Downloaded
+468,Chris,Wood,4,16,a,8,50,0.7,,60689.jpg,Downloaded
+469,Joe,Worrall,2,16,a,3,45,0.1,,208912.jpg,Downloaded
+470,Ryan,Yates,3,16,a,3,50,0.0,,204968.jpg,Downloaded
+471,Anel,Ahmedhodžić,2,17,a,2,45,0.4,,233821.jpg,Downloaded
+472,Jordan,Amissah,1,17,a,0,40,0.3,,538206.jpg,Downloaded
+473,George,Baldock,2,17,d,2,40,13.8,Calf injury - 75% chance of playing,82691.jpg,Downloaded
+474,Chris,Basham,2,17,a,3,40,0.9,,40386.jpg,Downloaded
+475,Sander,Berge,3,6,a,2,50,0.2,,207189.jpg,Downloaded
+476,Jayden,Bogle,2,17,d,0,45,0.0,Knee injury - 25% chance of playing,226182.jpg,Downloaded
+477,Rhian,Brewster,4,17,i,0,50,0.1,Lack of match fitness - Unknown return date,195473.jpg,Downloaded
+478,Ismaila,Coulibaly,3,17,d,0,45,0.0,Knee injury - 25% chance of playing,476938.jpg,Downloaded
+479,Adam,Davies,1,17,a,0,40,0.2,,102549.jpg,Downloaded
+480,John,Egan,2,17,a,3,45,0.2,,108416.jpg,Downloaded
+481,John,Fleck,3,17,i,0,50,0.0,Leg injury - Unknown return date,47247.jpg,Downloaded
+482,Wes,Foderingham,1,17,a,5,45,0.3,,82143.jpg,Downloaded
+483,Daniel,Jebbison,4,17,d,0,50,0.0,Groin Injury - 50% chance of playing,523700.jpg,Downloaded
+484,Max,Lowe,2,17,a,3,45,0.1,,155197.jpg,Downloaded
+485,Oliver,McBurnie,4,17,d,0,55,0.0,Lack of match fitness - 75% chance of playing,169432.jpg,Downloaded
+486,Iliman,Ndiaye,4,17,u,0,55,0.0,Permanent transfer to Marseille,440993.jpg,Downloaded
+487,Rhys,Norrington-Davies,2,17,i,0,40,0.1,Lack of match fitness - Unknown return date,443211.jpg,Downloaded
+488,Oliver,Norwood,3,17,a,3,50,0.0,,79934.jpg,Downloaded
+489,Ben,Osborn,3,17,a,3,50,0.0,,167878.jpg,Downloaded
+490,William,Osula,4,17,a,3,45,1.6,,538207.jpg,Downloaded
+491,Brandon,Austin,1,18,a,0,40,0.2,,214572.jpg,Downloaded
+492,Rodrigo,Bentancur,3,18,i,0,55,0.0,Knee injury - Expected back 04 Nov,202993.jpg,Downloaded
+493,Yves,Bissouma,3,18,a,5,50,0.5,,227127.jpg,Downloaded
+494,Bryan,Gil Salvatierra,3,18,i,0,50,0.0,Groin Injury - Unknown return date,436234.jpg,Downloaded
+495,Ben,Davies,2,18,a,4,45,0.7,,115556.jpg,Downloaded
+496,Eric,Dier,2,18,a,0,44,0.9,,93264.jpg,Downloaded
+497,Emerson,Leite de Souza Junior,2,18,a,9,45,1.9,,241157.jpg,Downloaded
+498,Fraser,Forster,1,18,a,0,40,3.4,,40383.jpg,Downloaded
+499,Pierre-Emile,Højbjerg,3,18,a,1,54,0.5,,132015.jpg,Downloaded
+500,Harry,Kane,4,18,u,0,125,1.0,Transferred to Bayern Munich,78830.jpg,Downloaded
+501,Dejan,Kulusevski,3,18,a,5,70,1.3,,445044.jpg,Downloaded
+502,Hugo,Lloris,1,18,a,0,50,0.7,,37915.jpg,Downloaded
+503,Giovani,Lo Celso,3,18,a,0,49,0.1,,200826.jpg,Downloaded
+504,James,Maddison,3,18,d,12,76,13.7,Knock - 75% chance of playing,172780.jpg,Downloaded
+505,Tanguy,Ndombélé Alvaro,3,18,a,0,44,0.5,,231372.jpg,Downloaded
+506,Pedro,Porro,2,18,a,6,49,2.6,,441164.jpg,Downloaded
+507,Ivan,Perišić,2,18,a,2,50,2.8,,45034.jpg,Downloaded
+508,Sergio,Reguilón,2,18,a,0,44,0.2,,199249.jpg,Downloaded
+509,Richarlison,de Andrade,3,18,a,5,70,3.8,,212319.jpg,Downloaded
+510,Joe,Rodon,2,18,u,0,40,0.1,Season long loan to Leeds United,214225.jpg,Downloaded
+511,Cristian,Romero,2,18,a,13,45,3.2,,221632.jpg,Downloaded
+512,Davinson,Sánchez,2,18,a,0,45,0.2,,173904.jpg,Downloaded
+513,Pape Matar,Sarr,3,18,a,11,45,1.8,,482442.jpg,Downloaded
+514,Ryan,Sessegnon,2,18,i,0,45,0.0,Hamstring injury - Unknown return date,184349.jpg,Downloaded
+515,Oliver,Skipp,3,18,a,1,49,0.2,,209042.jpg,Downloaded
+516,Son,Heung-min,3,18,a,5,90,5.9,,85971.jpg,Downloaded
+517,Djed,Spence,2,18,a,0,40,0.6,,232859.jpg,Downloaded
+518,Japhet,Tanganga,2,18,a,0,40,0.9,,199584.jpg,Downloaded
+519,Destiny,Udogie,2,18,a,6,45,3.0,,487053.jpg,Downloaded
+520,Guglielmo,Vicario,1,18,a,12,50,1.3,,184254.jpg,Downloaded
+521,Alfie,Whiteman,1,18,i,0,40,0.2,Ankle injury - Unknown return date,175941.jpg,Downloaded
+522,Nayef,Aguerd,2,19,s,7,45,0.5,Suspended until 01 Sep,210494.jpg,Downloaded
+523,Michail,Antonio,4,19,a,10,60,2.4,,57531.jpg,Downloaded
+524,Alphonse,Areola,1,19,a,13,40,24.1,,84182.jpg,Downloaded
+525,Saïd,Benrahma,3,19,a,4,60,0.8,,172841.jpg,Downloaded
+526,Jarrod,Bowen,3,19,a,11,70,4.8,,178186.jpg,Downloaded
+527,Maxwel,Cornet,3,19,a,1,54,0.1,,149519.jpg,Downloaded
+528,Vladimír,Coufal,2,19,a,4,45,0.3,,164555.jpg,Downloaded
+529,Conor,Coventry,3,19,a,0,45,0.1,,222017.jpg,Downloaded
+530,Aaron,Cresswell,2,19,a,0,44,0.8,,55459.jpg,Downloaded
+531,Flynn,Downes,3,19,u,0,50,0.0,Season-long loan to Southampton,220585.jpg,Downloaded
+532,Emerson,Palmieri dos Santos,2,19,a,5,45,0.4,,109533.jpg,Downloaded
+533,Lukasz,Fabianski,1,19,a,0,45,2.6,,37096.jpg,Downloaded
+534,Pablo,Fornals Malla,3,19,a,3,50,0.1,,217593.jpg,Downloaded
+535,Danny,Ings,4,19,a,1,59,1.4,,84939.jpg,Downloaded
+536,Ben,Johnson,2,19,a,0,45,0.1,,222018.jpg,Downloaded
+537,Thilo,Kehrer,2,19,a,1,45,0.1,,201057.jpg,Downloaded
+538,Divin,Mubama,4,19,a,0,45,10.3,,487837.jpg,Downloaded
+539,Lucas,Tolentino Coelho de Lima,3,19,a,7,60,1.6,,224024.jpg,Downloaded
+540,Declan,Rice,3,1,a,5,55,5.7,,204480.jpg,Downloaded
+541,Gianluca,Scamacca,4,19,u,0,60,0.0,Permanent transfer to Atalanta BC,195899.jpg,Downloaded
+542,Tomáš,Souček,3,19,a,9,50,1.4,,215439.jpg,Downloaded
+543,Nikola,Vlašić,3,19,u,0,45,0.1,Permanent transfer to Torino,180151.jpg,Downloaded
+544,Kurt,Zouma,2,19,a,4,45,0.9,,103192.jpg,Downloaded
+545,Rayan,Aït-Nouri,2,20,a,1,45,0.4,,448514.jpg,Downloaded
+546,Daniel,Bentley,1,20,a,0,40,0.4,,79602.jpg,Downloaded
+548,Hugo,Bueno López,2,20,a,2,45,0.1,,490721.jpg,Downloaded
+549,Francisco Jorge,Tomás Oliveira,3,20,u,0,45,0.0,Season long loan to Stoke Utd,510363.jpg,Downloaded
+550,Luke,Cundle,3,20,u,0,45,0.0,Season long loan to Plymouth Argyle,245923.jpg,Downloaded
+551,Craig,Dawson,2,20,a,1,45,0.3,,60232.jpg,Downloaded
+552,Fábio,Silva,4,20,a,2,55,0.3,,449988.jpg,Downloaded
+553,Ryan,Giles,2,12,a,0,45,0.1,,232351.jpg,Downloaded
+554,Gonçalo Manuel,Ganchinho Guedes,3,20,a,0,54,0.1,,181284.jpg,Downloaded
+555,Joe,Hodge,3,20,a,0,45,0.1,,240299.jpg,Downloaded
+556,Ki-Jana,Hoever,2,20,u,0,40,0.1,Season long loan to Stoke Utd,441271.jpg,Downloaded
+557,Hwang,Hee-chan,3,20,a,6,55,0.1,,184754.jpg,Downloaded
+558,Raúl,Jiménez,4,10,a,3,54,1.0,,102057.jpg,Downloaded
+559,João Victor,Gomes da Silva,3,20,a,3,50,0.1,,448089.jpg,Downloaded
+560,Jonathan,Castro Otto,2,20,a,0,45,0.1,,114128.jpg,Downloaded
+561,Bruno,Cavaco Jordão,3,20,a,0,45,0.2,,428610.jpg,Downloaded
+562,Sasa,Kalajdzic,4,20,a,1,50,0.1,,429414.jpg,Downloaded
+563,Max,Kilman,2,20,a,1,45,0.7,,214048.jpg,Downloaded
+564,Tom,King,1,20,a,0,40,0.8,,138001.jpg,Downloaded
+565,Mario,Lemina,3,20,a,3,50,0.0,,151086.jpg,Downloaded
+566,Matheus Luiz,Nunes,3,20,s,1,50,0.2,Suspended until 03 Sep,465351.jpg,Downloaded
+567,Pedro,Lomba Neto,3,20,a,3,55,0.3,,247632.jpg,Downloaded
+568,Daniel,Castelo Podence,3,20,a,0,54,0.1,,200600.jpg,Downloaded
+569,José,Malheiro de Sá,1,20,a,3,50,1.1,,149065.jpg,Downloaded
+570,Pablo,Sarabia,3,20,a,7,50,0.2,,88484.jpg,Downloaded
+571,Matija,Šarkić,1,20,u,0,40,0.5,Permanent transfer to Millwall,216208.jpg,Downloaded
+572,Nélson,Cabral Semedo,2,20,a,2,45,0.4,,200402.jpg,Downloaded
+573,Toti António,Gomes,2,20,a,1,45,0.1,,510362.jpg,Downloaded
+574,Boubacar,Traoré,3,20,a,0,45,0.5,,476502.jpg,Downloaded
+575,Tom,Lockyer,2,12,a,0,45,0.2,,108796.jpg,Downloaded
+576,Jack,Robinson,2,17,a,3,45,0.1,,83427.jpg,Downloaded
+577,Angelo,Ogbonna,2,19,a,1,45,0.1,,40669.jpg,Downloaded
+578,Reiss,Nelson,3,1,a,0,50,0.0,,200641.jpg,Downloaded
+579,Andy,Lonergan,1,9,a,0,40,0.1,,11948.jpg,Downloaded
+580,Loris,Karius,1,15,a,0,40,0.3,,104542.jpg,Downloaded
+581,Paul,Dummett,2,15,a,0,40,0.2,,106618.jpg,Downloaded
+582,Pelly Ruddock,Mpanzu,3,12,a,2,50,0.1,,104047.jpg,Downloaded
+583,Manor,Solomon,3,18,a,1,54,0.1,,235674.jpg,Downloaded
+584,Pau,Torres,2,2,a,6,45,2.6,,244954.jpg,Downloaded
+585,Jurriën,Timber,2,1,i,0,48,1.6,Knee injury - Unknown return date,445122.jpg,Downloaded
+586,Tahith,Chong,3,12,a,2,50,0.1,,222677.jpg,Downloaded
+587,Anis,Slimane,3,17,d,0,49,0.0,Hamstring injury - 75% chance of playing,504198.jpg,Downloaded
+588,Ashley,Young,2,9,a,2,45,0.6,,18892.jpg,Downloaded
+590,Matheus,Santos Carneiro Da Cunha,4,20,a,4,55,0.6,,430871.jpg,Downloaded
+591,Willian,Borges da Silva,3,10,a,1,54,0.5,,47431.jpg,Downloaded
+592,Yasser,Larouci,2,17,a,2,45,0.1,,432990.jpg,Downloaded
+593,Bénie,Traoré,4,17,a,4,55,0.1,,523957.jpg,Downloaded
+594,Zeki,Amdouni,4,6,a,2,55,0.1,,492831.jpg,Downloaded
+595,Milos,Kerkez,2,3,a,3,45,0.2,,544877.jpg,Downloaded
+596,James,Trafford,1,6,a,2,45,1.0,,432720.jpg,Downloaded
+597,André,Onana,1,14,a,11,50,29.4,,202641.jpg,Downloaded
+598,Matt,Doherty,2,20,a,0,45,0.3,,87835.jpg,Downloaded
+599,Moussa,Diaby,3,2,a,10,66,8.9,,243557.jpg,Downloaded
+600,Nathan,Redmond,3,6,a,1,49,0.0,,83283.jpg,Downloaded
+601,Arnaut,Danjuma Groeneveld,3,9,a,2,55,0.2,,220307.jpg,Downloaded
+602,Issa,Kaboré,2,12,a,1,40,6.0,,476369.jpg,Downloaded
+603,Harvey,Barnes,3,15,a,11,65,4.3,,201666.jpg,Downloaded
+604,Olu,Aina,2,16,d,0,45,0.1,Groin Injury - 50% chance of playing,159506.jpg,Downloaded
+605,Luca,Koleosho,3,6,a,2,50,0.0,,487702.jpg,Downloaded
+606,Igor Julio,dos Santos de Paulo,2,5,a,0,44,0.1,,223434.jpg,Downloaded
+607,Ionuț,Radu,1,3,a,0,45,0.1,,215531.jpg,Downloaded
+608,Jacob,Bruun Larsen,3,6,a,1,50,0.0,,179458.jpg,Downloaded
+609,Ian,Maatsen,3,7,a,1,54,0.1,,441302.jpg,Downloaded
+610,Calvin,Bassey,2,10,a,1,45,0.3,,232892.jpg,Downloaded
+611,Axel,Disasi,2,7,a,11,50,5.5,,220362.jpg,Downloaded
+613,Lesley,Ugochukwu,3,7,a,1,45,0.2,,503714.jpg,Downloaded
+614,Thomas,Kaminski,1,12,a,3,45,0.2,,54738.jpg,Downloaded
+615,Matheus,França de Oliveira,3,8,i,0,50,0.0,Back injury - Unknown return date,536694.jpg,Downloaded
+616,Joško,Gvardiol,2,13,a,7,50,4.5,,477424.jpg,Downloaded
+617,Rasmus,Højlund,4,14,i,0,70,0.8,Back injury - Unknown return date,497894.jpg,Downloaded
+618,Omari,Kellyman,3,2,a,0,45,0.0,,549068.jpg,Downloaded
+622,Owen,Dodgson,2,6,a,0,40,0.1,,461567.jpg,Downloaded
+623,Mason,Burstow,4,7,a,1,45,0.2,,534392.jpg,Downloaded
+624,Lewis,Dobbin,3,9,a,2,45,0.0,,461421.jpg,Downloaded
+626,Jarell,Quansah,2,11,a,0,40,0.0,,441428.jpg,Downloaded
+627,Bobby,Clark,3,11,a,0,45,0.0,,491970.jpg,Downloaded
+628,Ben,Doak,3,11,a,1,45,0.1,,496208.jpg,Downloaded
+630,Ross,Barkley,3,12,a,0,50,0.2,,88894.jpg,Downloaded
+633,Tino,Livramento,2,15,a,1,45,0.2,,441191.jpg,Downloaded
+638,Vini,de Souza Costa,3,17,a,2,50,0.0,,424001.jpg,Downloaded
+639,Micky,van de Ven,2,18,a,8,45,0.6,,491279.jpg,Downloaded
+640,Dane,Scarlett,4,18,a,0,45,0.4,,490145.jpg,Downloaded
+642,Edson,Álvarez Velázquez,3,19,a,1,50,0.1,,213999.jpg,Downloaded
+643,Max,Aarons,2,3,a,3,45,0.2,,232980.jpg,Downloaded
+645,Youssef,Ramalho Chermiti,4,9,a,0,50,0.1,,491012.jpg,Downloaded
+646,Karl,Hein,1,1,a,0,40,0.0,,463748.jpg,Downloaded
+647,Joseph,Anang,1,19,a,0,40,0.0,,447879.jpg,Downloaded
+649,Thomas,Cannon,4,9,a,0,45,0.0,,461416.jpg,Downloaded
+650,Tyler,Onyango,3,9,a,1,45,0.0,,461446.jpg,Downloaded
+651,Jay,Stansfield,4,10,a,0,45,0.0,,490146.jpg,Downloaded
+653,Femi,Seriki,2,17,a,0,40,0.0,,471848.jpg,Downloaded
+654,Louie,Marsh,4,17,a,0,45,0.0,,532377.jpg,Downloaded
+655,Andre,Brooks,3,17,a,2,45,0.0,,538210.jpg,Downloaded
+656,Antwoine,Hackford,4,17,a,2,45,0.1,,487836.jpg,Downloaded
+657,Jesurun,Rak-Sakyi,3,8,a,1,45,0.0,,450542.jpg,Downloaded
+658,John-Kymani,Gordon,4,8,a,0,45,0.1,,461382.jpg,Downloaded
+659,Lucas,Bergström,1,7,a,0,40,0.0,,482158.jpg,Downloaded
+661,Jack,Harrison,3,9,a,0,55,0.0,,221399.jpg,Downloaded
+662,Adama,Traoré,3,10,a,1,50,0.0,,159533.jpg,Downloaded
+663,Gustavo,Hamer,3,17,a,6,50,0.1,,196100.jpg,Downloaded
+664,James,Ward-Prowse,3,19,a,9,60,1.6,,101178.jpg,Downloaded
+665,Tim,Krul,1,12,a,0,45,0.0,,20480.jpg,Downloaded
+666,Tom,Davies,3,17,a,0,50,0.0,,173807.jpg,Downloaded
+667,Roméo,Lavia,3,7,a,0,50,0.0,,514356.jpg,Downloaded
+668,Wataru,Endo,3,11,a,1,55,0.0,,158983.jpg,Downloaded
+669,Radek,Vítek,1,14,a,0,40,0.0,,477733.jpg,Downloaded
+670,Filip,Marschall,1,2,a,0,40,0.0,,462381.jpg,Downloaded
+671,Bashir,Humphreys,2,7,a,0,40,0.0,,461188.jpg,Downloaded
+675,Aaron,Ramsey,3,6,a,0,50,0.0,,447715.jpg,Downloaded
+676,Konstantinos,Mavropanos,2,19,a,0,45,0.0,,233963.jpg,Downloaded
+120,Yegor,Yarmolyuk,3,4,a,0,45,0.7,,508395.jpg,Not Available
+156,Enock,Agyei,3,6,a,0,45,0.2,,578614.jpg,Not Available
+162,Darko,Churlinov,3,6,a,0,45,0.0,,250735.jpg,Not Available
+171,Luke,McNally,2,6,u,0,40,0.0,Season long loan to Stoke City,483391.jpg,Not Available
+235,Jake,O'Brien,2,8,u,0,40,0.1,Permanent transfer to Lyon,512462.jpg,Not Available
+325,Carlos,Mendes Gomes,3,12,u,0,45,0.0,Permanent transfer to Bolton Wanderers,453537.jpg,Not Available
+329,Fred,Onyedinma,3,12,u,0,50,0.0,Season long loan to Rotherham,168035.jpg,Not Available
+331,Aribim,Pepple,4,12,u,0,45,0.2,Season long loan to Bromley,490180.jpg,Not Available
+334,Glen,Rea,3,12,a,0,45,0.1,,165152.jpg,Not Available
+336,Joe,Taylor,4,12,u,0,45,0.2,Season long loan to Colchester United until the end of the season,242500.jpg,Not Available
+338,Jack,Walton,1,12,u,0,40,0.0,Joined Dundee United on a season-long loan - Expected back 01 Jul,207722.jpg,Not Available
+348,Shea,Charles,3,13,u,0,45,0.0,Permanent Transfer to Southampton,463210.jpg,Not Available
+380,Álvaro,Fernández Carreras,2,14,a,0,40,0.3,,515501.jpg,Not Available
+388,Kobbie,Mainoo,3,14,i,0,45,0.0,Ankle injury - Unknown return date,516895.jpg,Not Available
+418,Garang,Kuol,3,15,u,0,45,0.0,On loan to FC Volendam,564510.jpg,Not Available
+434,Brandon,Aguilera Zamora,3,16,u,0,45,0.0,Season long loan to Estoril,461682.jpg,Not Available
+440,Josh,Bowler,3,16,u,0,45,0.0,Season long loan to Cardiff City,245830.jpg,Not Available
+444,Mohamed,Dräger,2,16,a,0,40,0.1,,173399.jpg,Not Available
+460,Jonathan,Panzo,2,16,a,0,40,0.1,,209035.jpg,Not Available
+547,Bendegúz,Bolla,2,20,a,0,40,0.9,,431960.jpg,Not Available
+589,Ângelo Gabriel,Borges Damaceno,3,7,u,0,50,0.0,Season long loan to Strasbourg until the end of the season,518620.jpg,Not Available
+619,Ben,Greenwood,2,3,a,0,40,0.2,,474772.jpg,Not Available
+620,Michale,Olakigbe,3,4,a,0,45,0.0,,501284.jpg,Not Available
+621,Jack,Hinshelwood,3,5,a,0,45,0.0,,532529.jpg,Not Available
+625,Luc,De Fougerolles,2,10,a,0,40,0.0,,547686.jpg,Not Available
+629,James,McConnell,3,11,a,0,45,0.0,,491501.jpg,Not Available
+631,Jacob,Brown,4,12,a,4,50,0.2,,242453.jpg,Not Available
+632,Omari,Forson,3,14,a,0,45,0.0,,487828.jpg,Not Available
+634,Alex,Murphy,2,15,a,0,40,0.4,,545477.jpg,Not Available
+635,Lewis,Miley,3,15,a,0,45,0.0,,547719.jpg,Not Available
+636,George,Shelvey,1,16,a,0,40,0.0,,450197.jpg,Not Available
+637,Josh,Powell,2,16,a,0,40,0.1,,547659.jpg,Not Available
+641,Alejo,Véliz,4,18,a,0,55,0.1,,536908.jpg,Not Available
+644,Alex,Scott,3,3,i,0,50,0.0,Knee injury - Unknown return date,503139.jpg,Not Available
+648,Aidan,Francis-Clarke,2,12,a,0,40,0.0,,552030.jpg,Not Available
+652,Matthew,Dibley-Dias,3,10,a,0,45,0.0,,515023.jpg,Not Available
+660,Wilson,Odobert,3,6,a,0,50,0.0,,550839.jpg,Not Available
+672,Nicolò,Zaniolo,3,2,a,0,55,0.0,,245414.jpg,Not Available
+673,Tyler,Adams,3,3,a,0,50,0.0,,200785.jpg,Not Available
+674,Hannes,Delcroix,2,6,a,0,40,0.0,,247245.jpg,Not Available

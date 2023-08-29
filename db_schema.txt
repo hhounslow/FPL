@@ -1,0 +1,110 @@
+Database Schema: fpl_data.db Updated 24-08-2023
+Table: player_info
+
+player_id: INTEGER (Primary Key, Unique)
+first_name: TEXT
+last_name: TEXT
+position: INTEGER
+team_id: INTEGER (Foreign Key referencing teams)
+status: TEXT
+total_points: INTEGER
+current_value: INTEGER
+selected_by_percent: REAL
+news: TEXT
+photo: TEXT
+image_status: TEXT
+Table: teams
+
+team_id: INTEGER (Primary Key)
+team_name: TEXT (Unique)
+short_name: TEXT
+strength: INTEGER
+stadium: TEXT
+manager: TEXT
+Table: recent_performance
+
+performance_id: INTEGER (Primary Key)
+player_id: INTEGER (Foreign Key referencing players)
+gameweek: INTEGER
+total_points: INTEGER
+minutes: INTEGER
+goals_scored: INTEGER
+assists: INTEGER
+bonus: INTEGER
+saves: INTEGER
+yellow_cards: INTEGER
+red_cards: INTEGER
+own_goals: INTEGER
+penalties_missed: INTEGER
+penalties_saved: INTEGER
+opponent_team: INTEGER
+was_home: INTEGER
+clean_sheets: INTEGER
+goals_conceded: INTEGER
+bps: INTEGER
+influence: REAL
+creativity: REAL
+threat: REAL
+ict_index: REAL
+value: INTEGER
+transfers_balance: INTEGER
+Table: upcoming_fixtures
+
+fixture_id: INTEGER (Primary Key)
+team_id: INTEGER (Foreign Key referencing teams)
+opponent_team_id: INTEGER (Foreign Key referencing teams)
+gameweek: INTEGER
+is_home: INTEGER
+fixture_date: TEXT
+Table: past_performance
+
+season_id: INTEGER (Primary Key)
+player_id: INTEGER (Foreign Key referencing players)
+season_name: TEXT
+total_points: INTEGER
+minutes: INTEGER
+goals_scored: INTEGER
+assists: INTEGER
+clean_sheets: INTEGER
+goals_conceded: INTEGER
+penalties_saved: INTEGER
+penalties_missed: INTEGER
+yellow_cards: INTEGER
+red_cards: INTEGER
+bonus: INTEGER
+bps: INTEGER
+influence: REAL
+creativity: REAL
+threat: REAL
+ict_index: REAL
+own_goals: INTEGER
+saves: INTEGER
+Table: league_standings
+
+id: INTEGER (Primary Key)
+player_id: INTEGER
+league_id: INTEGER
+team_name: TEXT
+player_name: TEXT
+total_points: INTEGER
+rank: INTEGER
+gameweek_points: INTEGER
+previous_rank: INTEGER
+transfers_made: INTEGER
+bank_value: REAL
+team_value: REAL
+chips_used: TEXT
+recent_chip: TEXT
+Table: players
+
+player_id: INTEGER (Primary Key)
+name: TEXT
+team: TEXT
+position: TEXT
+Table: sentiment_analysis
+
+mention_id: INTEGER (Primary Key, Autoincrement)
+player_id: INTEGER (Foreign Key referencing players)
+sentiment_score: REAL
+source: TEXT
+date: DATE
